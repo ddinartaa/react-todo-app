@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Inter, sans-serif;
+    background-color: #f6f6f6;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.app {
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: #ffffff;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
